@@ -7,7 +7,7 @@
  * to the end of the file.
  *
  * Return: If the function fails letz or filename is NULL - -1.
- *         If the file does not exist the user 
+ * If the file does not exist the user
  *         lacks write permissions - -1.
  *         Otherwise - 1.
  */
